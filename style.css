@@ -1,0 +1,11 @@
+img{
+  border-radius: 10px;
+}
+h1{
+  color: black;
+}
+hr{
+border-top-style: none;
+  border-bottom-style: dotted;
+  border-color: grey;
+}
